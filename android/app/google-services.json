@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066475533242",
+    "project_id": "muscle-8b801",
+    "storage_bucket": "muscle-8b801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066475533242:android:a2bacc87ab1e2e0be62383",
+        "android_client_info": {
+          "package_name": "com.example.muscle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOCEpJoM_Kl9kRyQdtny-GmEKjdSPNwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
